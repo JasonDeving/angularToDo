@@ -5,4 +5,4 @@ git init
 git clone https://github.com/JasonDeving/angularToDo.git
 ```
 
-Thats abou tit.
+Thats about it.
